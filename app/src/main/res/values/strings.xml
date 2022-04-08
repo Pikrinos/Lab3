@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Selfi</string>
+    <string name="btn1">Take a shot</string>
+    <string name="btn2">Send a selfie</string>
+</resources>
